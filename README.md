@@ -7,3 +7,6 @@ Los objetivos principales son encontrar la tendencia de las ventas en el tiempo,
 Se realizará en el entorno de jupyter notebooks con las librerías pandas, seaborn, matplotlib.
 
 El objetivo es encontrar los patrones más resaltantes de la BD utilizando dataframes, tablas y gráficos.
+
+
+![](https://github.com/Hrod123/Ventas-AdventureWorks/blob/main/Dashboard2.PNG)
