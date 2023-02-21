@@ -9,4 +9,4 @@ Se realizará en el entorno de jupyter notebooks con las librerías pandas, seab
 El objetivo es encontrar los patrones más resaltantes de la BD utilizando dataframes, tablas y gráficos.
 
 
-![](https://github.com/Hrod123/Ventas-AdventureWorks/blob/main/Dashboard2.PNG)
+![](https://github.com/Hrod123/PYTHON-EXPLORATORY-DATA-ANALYSIS-SUPERTIENDA-VENTAS/blob/main/Python%20foto.jpg)
