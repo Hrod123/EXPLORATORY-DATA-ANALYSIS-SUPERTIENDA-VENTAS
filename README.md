@@ -1,1 +1,2 @@
-# SuperTienda-EDA-Ventas
+# EXPLORATORY DATA ANALYSIS - SUPERTIENDA Ventas
+
